@@ -1,0 +1,27 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "cherub_suite",
+      "name": "Cherub Suite",
+      "tagline": "Advanced mecha and hard-surface design utility",
+      "version": "0.2.0",
+      "type": "add-on",
+      "maintainer": "Luis Cherubini",
+      "license": [
+        "GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/luischerub/Cherub-Suite",
+      "permissions": {},
+      "tags": [
+        "Modeling"
+      ],
+      "archive_url": "./cherub_suite.zip",
+      "archive_size": 198765,
+      "archive_hash": "sha256:f9e0466bd4833cbce5a31ce4d52268fb037ec69273031042fcbbb1517415baff"
+    }
+  ]
+}
