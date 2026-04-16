@@ -7,7 +7,7 @@
       "id": "cherub_suite",
       "name": "Cherub Suite",
       "tagline": "Advanced mecha and hard-surface design utility",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "type": "add-on",
       "maintainer": "Luis Cherubini",
       "license": [
@@ -20,8 +20,8 @@
         "Modeling"
       ],
       "archive_url": "./cherub_suite.zip",
-      "archive_size": 207633,
-      "archive_hash": "sha256:fbc6fef8b27204b505817bd404cb4064cd76b0fcd7d27db14cc37e87499822d1"
+      "archive_size": 219229,
+      "archive_hash": "sha256:9eb68924b9b4902be2051f501e36034777b7342706a0f8c8cfc6cd6dc2a3922e"
     }
   ]
 }
