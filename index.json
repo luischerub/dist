@@ -1,5 +1,30 @@
 {
   "version": "v1",
   "blocklist": [],
-  "data": []
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "cherub_suite",
+      "name": "Cherub Suite",
+      "tagline": "Advanced hard-surface design & pipeline utility",
+      "version": "0.2.7",
+      "type": "add-on",
+      "maintainer": "Luis Cherubini",
+      "license": [
+        "GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/luischerub/Cherub-Suite",
+      "permissions": {},
+      "tags": [
+        "User Interface",
+        "Mesh",
+        "Modeling",
+        "Pipeline"
+      ],
+      "archive_url": "./cherub_suite.zip",
+      "archive_size": 232457,
+      "archive_hash": "sha256:b88fbffe6ee6995ad029a22f662c70416589ef961096ccec8469fdee6b242ffd"
+    }
+  ]
 }
