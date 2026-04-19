@@ -7,7 +7,7 @@
       "id": "cherub_suite",
       "name": "Cherub Suite",
       "tagline": "Advanced hard-surface design & pipeline utility",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "type": "add-on",
       "maintainer": "Luis Cherubini",
       "license": [
@@ -23,8 +23,8 @@
         "Pipeline"
       ],
       "archive_url": "./cherub_suite.zip",
-      "archive_size": 276494,
-      "archive_hash": "sha256:8d8415e096133095c8f539c717940f939c5460443d9b8b248792ae9becde7da8"
+      "archive_size": 232952,
+      "archive_hash": "sha256:c486d9f20b51b200cb51030be73ee0615f5ba0f7ddb76b0559ec934ff40b7623"
     }
   ]
 }
