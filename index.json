@@ -23,8 +23,8 @@
         "Pipeline"
       ],
       "archive_url": "./cherub_suite.zip",
-      "archive_size": 232952,
-      "archive_hash": "sha256:c486d9f20b51b200cb51030be73ee0615f5ba0f7ddb76b0559ec934ff40b7623"
+      "archive_size": 232505,
+      "archive_hash": "sha256:573a7db251b8b96ef46a28b5e47eca1c5cce65141aa2186931c8fa8bc93f3eaa"
     }
   ]
 }
