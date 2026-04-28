@@ -7,7 +7,7 @@
       "id": "cherub_suite",
       "name": "Cherub Suite",
       "tagline": "Common pie menu helpers & Asset Library authoring utilities",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "type": "add-on",
       "maintainer": "Luis Cherubini",
       "license": [
@@ -15,15 +15,17 @@
       ],
       "blender_version_min": "5.0.0",
       "website": "https://github.com/luischerub/Cherub-Suite",
-      "permissions": {},
+      "permissions": {
+        "files": "write"
+      },
       "tags": [
         "Mesh",
         "Modeling",
         "Pipeline"
       ],
       "archive_url": "./cherub_suite.zip",
-      "archive_size": 221862,
-      "archive_hash": "sha256:f5b69df1c36cb311ba5a20d66bc536246b1eb77466e838c2463b53cb15b26f76"
+      "archive_size": 222180,
+      "archive_hash": "sha256:bf28d863601d9fb631997a8f6718ae684b309e8b9a963bad104b7f9f9574f99a"
     }
   ]
 }
