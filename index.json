@@ -7,7 +7,7 @@
       "id": "cherub_suite",
       "name": "Cherub Suite",
       "tagline": "Common pie menu helpers & Asset Library authoring utilities",
-      "version": "0.3.6",
+      "version": "0.3.7",
       "type": "add-on",
       "maintainer": "Luis Cherubini",
       "license": [
@@ -24,8 +24,8 @@
         "Pipeline"
       ],
       "archive_url": "./cherub_suite.zip",
-      "archive_size": 222180,
-      "archive_hash": "sha256:bf28d863601d9fb631997a8f6718ae684b309e8b9a963bad104b7f9f9574f99a"
+      "archive_size": 149982,
+      "archive_hash": "sha256:faca8ad9a23268eb52bb69057644925221aa0862a045396b87b9596c12c0d5d7"
     }
   ]
 }
